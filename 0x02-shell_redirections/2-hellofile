@@ -1,2 +1,2 @@
 #!/bin/bash
-pwdck
+cat /etc/passwd
