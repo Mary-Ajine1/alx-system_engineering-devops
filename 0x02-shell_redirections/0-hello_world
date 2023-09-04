@@ -1,2 +1,2 @@
 #!/bin/bash
-cat -e Hello, World$ |file_list.txt
+cat -e Hello, World$ \n |file_list.txt
